@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cassdoescode (<a href="https://en.pronouns.page/@cassasaur"they/them pronouns</a>)
+- 👋 Hi, I’m @cassdoescode (<a href="https://en.pronouns.page/@cassasaur">they/them pronouns</a>)
 - 👀 I’m interested in creating tools to help bridge the information gap in marginalized communities.
 - 🌱 I’m currently learning full-stack web development through #100Devs.
 - 💞️ I’m looking to collaborate on web projects. I'm currently open to freelance work on basic websites (HTML, CSS, some JS).
