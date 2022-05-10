@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Cass Casarez</h1>
-  <span align="center"><a href="http://pronoun.is/they">(they/them pronouns, please!)</a></span>
 <h3 align="center">and I'm a creatively driven software engineer at 100Devs.</h3>
+<span align="center"><a href="http://pronoun.is/they">(they/them pronouns, please!)</a></span>
   <p align="left">I’m interested in creating tools to help bridge the information gap in marginalized communities. I'm currently open to freelance work on static websites and am willing to discuss other opportunities in the future.</p>
 
 <p align="left"> <a href="https://twitter.com/cassdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/cassdoescode?logo=twitter&style=for-the-badge" alt="cassdoescode" /></a> </p>
