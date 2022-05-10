@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/cassdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/cassdoescode?logo=twitter&style=for-the-badge" alt="cassdoescode" /></a> </p>
 
 - 📫 How to reach me **cmcasarez@gmail.com**
+- 💻 Check out my portfolio <a href="https://casscodes.netlify.app" target="_blank">here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
