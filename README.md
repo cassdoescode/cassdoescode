@@ -1,7 +1,5 @@
-<h1 align="center">Hi! I'm Cass</h1>
-<h3 align="center">and I'm your next full-stack web developer!</h3>
-<span align="left"><a href="http://pronoun.is/they">(they/them pronouns)</a></span>
-<p align="left">I’m interested in creating tools to help bridge the information gap in marginalized communities. I am especially passionate about making the web as accessible as possible to as many people as possible.</p>
+![Header](./cass-github-header-image.png)
+<p align="left">Hi! I'm Cass and I code. Specifically I'm a full-stack web developer on a mission to do good. I’m interested in creating tools to help bridge the information gap in marginalized communities. I want to make the web accessible to as many people as possible. If you do too, feel free to reach out!</p>
 
 <p align="left"> <a href="https://twitter.com/cassdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/cassdoescode?logo=twitter&style=for-the-badge" alt="cassdoescode" /></a> </p>
 
