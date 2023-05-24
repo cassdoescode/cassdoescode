@@ -1,14 +1,11 @@
-![Header](./cass-github-header-image.png)
-<p align="left">Hi! I'm Cass and I code. Specifically I'm a full-stack web developer on a mission to do good. I’m interested in creating tools to help bridge the information gap in marginalized communities. I want to make the web accessible to as many people as possible. If you do too, feel free to reach out!</p>
-
-<p align="left"> <a href="https://twitter.com/cassdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/cassdoescode?logo=twitter&style=for-the-badge" alt="cassdoescode" /></a> </p>
+Under construction.
 
 - 📫 How to reach me **cmcasarez@gmail.com**
 - 💻 Check out my portfolio <a href="https://casscodes.netlify.app" target="_blank">here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cassdoescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cassdoescode" height="30" width="40" /></a>
+<a href="https://twitter.com/cmcasarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmcasarez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/cmcasarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cmcasarez" height="30" width="40" /></a>
 </p>
 
